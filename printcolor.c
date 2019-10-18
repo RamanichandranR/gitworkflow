@@ -9,4 +9,4 @@ Write "not a correct color option"
 
 //changes for 25Feb release
 If (colornum >0 and colornum <=5)
-Write red
+Write yellow
